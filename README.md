@@ -1,2 +1,2 @@
-# -nifi-csv-bundle
+# nifi-csv-bundle
 :rain: Nifi CSV Bundle
